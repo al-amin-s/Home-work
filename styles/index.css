@@ -1,0 +1,35 @@
+header > ul {
+    text-align: center;
+
+}
+header > ul >li :hover{
+    transition:0.7s;
+    background-color: #a8a8a8;
+}
+header > ul >li {
+display: inline-block;
+padding:5px;
+}
+header > ul >li >a {text-decoration: none;
+    color: black;
+    font-size:8px;
+    text-transform: uppercase;
+    padding:3px;
+    border-radius:3px;
+
+}
+#hh .button{
+    text-decoration: none;
+    color: gray;
+}
+header{
+    background-color: #e7e4e4b3;
+    box-shadow:2px 2px 3px;
+}
+main{
+    background-color: #e3d3d3;
+}
+
+footer{
+    background-color: e3d3d3;
+}
