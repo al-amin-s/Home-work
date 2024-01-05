@@ -24,7 +24,7 @@ header > ul >li >a {text-decoration: none;
 }
 header{
     background-color: #e7e4e4b3;
-    box-shadow:2px 2px 3px;
+    box-shadow:4px 4px 5px;
 }
 main{
     background-color: #e3d3d3;
